@@ -11,7 +11,7 @@ Le github s'organise de la manière suivante :
 
 - un dossier src : les sources (python, matlab), n'étant modifiés que dans la branche test ou après validation COMPLETE 
 
-- un dossier trash : des brouillons en tout genre
+- un dossier trash : des brouillons en tous genres
 
 - un dossier DEMO : les démos sous forme de notebooks ou de latex
 
