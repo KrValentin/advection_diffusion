@@ -7,7 +7,7 @@ Desc : description du dossier
 
 
 # Organisation des branches 
-    - master 
+    - main
     - test
     - paral
 
